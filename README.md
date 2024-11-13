@@ -1,5 +1,4 @@
-[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.gettyimages.com%2Fvideos%2Fgreen-matrix-background&psig=AOvVaw0wqhhlCYOTExYAeA58CHZr&ust=1731608512121000&source=images&cd=vfe&opi=89978449&ved=2ahUKEwje1qfD9tmJAxXg7AIHHZX2KI4QjRx6BAgAEBk)](https://rishavchanda.io)
-
+[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.gettyimages.com%2Fvideos%2Fgreen-matrix-background&psig=AOvVaw0wqhhlCYOTExYAeA58CHZr&ust=1731608512121000&source=images&cd=vfe&opi=89978449&ved=2ahUKEwje1qfD9tmJAxXg7AIHHZX2KI4QjRx6BAgAEBk)]
 <h1 align="center">Hi 👋, I'm Imran Ahmad</h1>
 <h3 align="center">Certified Full-Stack Developer | Tech Enthusiast <h3> <br> Dedicated to developing scalable, intuitive applications and providing high-performance, reliable solutions.</h3>
 

@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Imran Ahmad</h1>
-<h3 align="center">Certified Full-Stack Developer | Tech Enthusiast </h3> <br>  <p>Dedicated to developing scalable, intuitive applications and providing high-performance, reliable solutions.</p>
+<h3 align="center">Certified Full-Stack Developer | Tech Enthusiast </h3> <br>  <p> <center><b>Dedicated to developing scalable, intuitive applications and providing high-performance, reliable solutions.</b></center></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmadimran537&label=Profile%20views&color=0e75b6&style=flat" alt="ahmadimran537" /> </p>
 

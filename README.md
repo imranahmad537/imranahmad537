@@ -1,9 +1,10 @@
+[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.gettyimages.com%2Fvideos%2Fgreen-matrix-background&psig=AOvVaw0wqhhlCYOTExYAeA58CHZr&ust=1731608512121000&source=images&cd=vfe&opi=89978449&ved=2ahUKEwje1qfD9tmJAxXg7AIHHZX2KI4QjRx6BAgAEBk)](https://rishavchanda.io)
+
 <h1 align="center">Hi 👋, I'm Imran Ahmad</h1>
 <h3 align="center">Certified Full-Stack Developer | Tech Enthusiast <h3> <br> Dedicated to developing scalable, intuitive applications and providing high-performance, reliable solutions.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmadimran537&label=Profile%20views&color=0e75b6&style=flat" alt="ahmadimran537" /> </p>
 
-[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.gettyimages.com%2Fvideos%2Fgreen-matrix-background&psig=AOvVaw0wqhhlCYOTExYAeA58CHZr&ust=1731608512121000&source=images&cd=vfe&opi=89978449&ved=2ahUKEwje1qfD9tmJAxXg7AIHHZX2KI4QjRx6BAgAEBk)](https://rishavchanda.io)
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmadimran537" alt="ahmadimran537" /></a> </p>
 
 - 👯 I’m looking to collaborate on **Full-Stack Web Development projects, Open-Source contributions, and Real-World Applications to build scalable, user-friendly solutions. Open to freelance, or team-based projects.**

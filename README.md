@@ -1,4 +1,4 @@
-[![trophy](https://github-profile-trophy.vercel.app/?imranahmad537=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=imranahmad537)](https://github.com/imranahmad537/github-profile-trophy)
 <h1 align="center">Hi 👋, I'm Imran Ahmad</h1>
 <h3 align="center">Certified Full-Stack Developer | Tech Enthusiast | Lecturer in Computer Science <h3> <br> Dedicated to developing scalable, intuitive applications and providing high-performance, reliable solutions.</h3>
 

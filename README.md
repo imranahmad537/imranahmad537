@@ -6,13 +6,13 @@
 
 - 👯 I’m looking to collaborate on **Full-Stack Web Development projects, Open-Source contributions, and Real-World Applications to build scalable, user-friendly solutions. Open to freelance, or team-based projects.**
 
-- 🤝 Reach me **ahmadimrankh99@gmail.com**
 
 - ⚡ Fun fact **My IDE Knows Me Better Than Anyone**
 
 ## Contact Information
 In case of any issues, feel free to reach out:
 
+ 🤝 Reach me **ahmadimrankh99@gmail.com**
 📞   **+923131240764**
 <h3 align="left">Connect with me:</h3>
 <p align="left">

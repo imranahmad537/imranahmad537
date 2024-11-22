@@ -2,8 +2,6 @@
 <h1 align="center">Hi 👋, I'm Imran Ahmad</h1>
 <h3 align="center">Certified Full-Stack Developer | Tech Enthusiast | Lecturer in Computer Science <h3> <br> Dedicated to developing scalable, intuitive applications and providing high-performance, reliable solutions.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmadimran537&label=Profile%20views&color=0e75b6&style=flat" alt="ahmadimran537" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmadimran537" alt="ahmadimran537" /></a> </p>
 
 - 👯 I’m looking to collaborate on **Full-Stack Web Development projects, Open-Source contributions, and Real-World Applications to build scalable, user-friendly solutions. Open to freelance, or team-based projects.**
@@ -12,6 +10,9 @@
 
 - ⚡ Fun fact **My IDE Knows Me Better Than Anyone**
 
+## Contact Information
+In case of any issues, feel free to reach out:
+- **Phone**: +923131240764
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/www.linkedin.com/in/imran-ahmad-968660271" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/imran-ahmad-968660271" height="30" width="40" /></a>

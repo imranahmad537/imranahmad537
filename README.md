@@ -15,9 +15,8 @@
 In case of any issues, feel free to reach out:
 
 
- 🤝 Reach me **ahmadimrankh99@gmail.com**
+ 🤝 Reach me **itsimran.dev@gmail.com**
  
-📞   **+923131240764**
 
 
 <br>
@@ -26,7 +25,7 @@ In case of any issues, feel free to reach out:
 <p align="left">
 <a href="https://linkedin.com/in/www.linkedin.com/in/imran-ahmad-968660271" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/imran-ahmad-968660271" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/share/15stwdz8pw/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/share/15stwdz8pw/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/it_smee404/profilecard/?igsh=ctq2ow00agw3c2i0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/it_smee404/profilecard/?igsh=ctq2ow00agw3c2i0" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/it_smee404/profilecard/?igsh=ctq2ow00agw3c2i0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/imran.ahmad_99?igsh=cTQ2OW00aGw3c2I0" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/imran200" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="imran200" height="30" width="40" /></a>
 </p>
 <br>
